@@ -1,6 +1,4 @@
-# M16
-# V 1.32
-# PAID
+# M16 / V 1.33 / PAID
 
 rm -rf  M16
 
