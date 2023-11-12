@@ -1,5 +1,31 @@
 # M16 / V 1.33 / PAID
 
+PAID TOOLS M16 🇦🇱
+
+Update M16 1.33 ✅
+
+https://t.me/i6ii1 🔑
+
+pkg update
+
+pkg upgrade
+
+pkg install python
+
+pkg install git
+
+pip install requests
+
+pip install mechanize
+
+pip install bs4 futures
+
+pip install rich
+
+pip uninstall requests chardet urllib3 idna certifi -y;pip install chardet urllib3 idna certifi requests
+
+termux-setup-storage
+
 rm -rf  M16
 
 git clone https://github.com/mafiat2/M16.git
@@ -7,3 +33,6 @@ git clone https://github.com/mafiat2/M16.git
 cd M16
 
 python YOUSIF.py
+
+
+THIS TOOL IS FREE NOT PAID SO ENJOY 🔥
