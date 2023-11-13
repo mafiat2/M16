@@ -12,6 +12,5 @@ test 1
 d357c3a5d8ad4f6980c5ae727de4d2578
 
 day 1
-
 8ffcbeb63ba84936a3db61e901c447578
 
