@@ -1,4 +1,4 @@
-# M16 / V 1.33 / PAID
+# M16 / V 1.34 / PAID
 
 PAID TOOLS M16 🇦🇱
 
@@ -35,4 +35,4 @@ cd M16
 python YOUSIF.py
 
 
-THIS TOOL IS FREE NOT PAID SO ENJOY 🔥
+THIS TOOL IS PAID SO ENJOY 🔥
