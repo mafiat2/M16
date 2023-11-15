@@ -1,4 +1,4 @@
-# M16 / V 1.37 / PAID
+# M16 / V 1.39 / PAID
 
 PAID TOOLS M16 🇦🇱
 
