@@ -40,7 +40,7 @@ git clone https://github.com/mafiat2/M16.git
 
 cd M16
 
-python YOUSIF.py
+python M16.py
 
 
 [💀] 𝗧𝗛𝗜𝗦 𝗜𝗦 𝗔𝗥𝗘 𝗣𝗔𝗜𝗗 𝗦𝗢 𝗬𝗢𝗨 𝗡𝗘𝗘𝗗 𝗣𝗘𝗥𝗠𝗜𝗦𝗦𝗜𝗢𝗡 𝗧𝗢 𝗨𝗦𝗘 𝗗𝗔𝗥𝗞 𝗧𝗢𝗢𝗟
