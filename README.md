@@ -36,7 +36,7 @@ pip install bs4
 
 rm -rf M16
 
-git clone https://github.com/mafiat2/M16.git
+git clone https://github.com/mafiat2/M16
 
 cd M16
 
